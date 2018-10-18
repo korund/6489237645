@@ -18,6 +18,9 @@ Grid can be so simple or fancy as you like but have to contain elements:
 - Add uikit.js to project (in angular.js file)
 - Import uikit scss files from node_modules
 
+## Result
+- Publish your result to "dev" branch
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
