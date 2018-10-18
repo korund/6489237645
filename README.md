@@ -1,3 +1,3 @@
-# Test for frontend results.
+# Test result
 
 If you have any comments...
