@@ -3,7 +3,8 @@
 Use this project, to make a responsive grid. Grid have to be different in desktop and mobile devices.</p>
 
 ## Grid elements
-Grid can be so simple or fancy as you like but have to contain elements:
+Grid can be so simple or fancy as you like. You can use plain text or angular typescript for adding a content. 
+Grid have to contain elements:
 
 - Title
 - Image
