@@ -3,17 +3,21 @@
 Use this project, to make a responsive grid. Grid have to be different in desktop and mobile devices.</p>
 
 ## Grid elements
+Grid can be so simple or fancy as you like but have to contain elements:
 
 - Title
 - Image
 - content
 - button
 
-## Use Uikit for this project (not added to project)
+## Use Uikit
 
-- Use Uikit uk-grid for this project
+- Add uikit with npm
+- Use uk-grid for making a grid
 - Style language: scss
-- Use import scss with npm
+- Add uikit.js to project (angular.js file)
+- Import uikit scss files from node_modules
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
