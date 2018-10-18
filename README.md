@@ -15,7 +15,7 @@ Grid can be so simple or fancy as you like but have to contain elements:
 - Add uikit with npm
 - Use uk-grid for making a grid
 - Style language: scss
-- Add uikit.js to project (angular.js file)
+- Add uikit.js to project (in angular.js file)
 - Import uikit scss files from node_modules
 
 
