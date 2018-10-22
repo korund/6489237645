@@ -1,10 +1,21 @@
-<div>
-  <h1>
+<div ngClass="uk-grid-medium uk-child-width-expand uk-margin-bottom uk-margin-top" [attr.uk-grid]="true">
+  <h1
+    ngClass="uk-width-1-1">
     {{title}}
   </h1>
-  <img src="{{imagePath}}">
-  <p *ngFor="let paragraph of content">
+  <img
+    ngClass="uk-width-1-1 uk-height-1-1"
+    src="{{imagePath}}">
+  <p
+    *ngFor="let paragraph of content"
+     ngClass="uk-width-1-1 uk-text-justify uk-width-1-2@m uk-width-1-3@l">
     {{paragraph}}
   </p>
-
+  <div ngClass="uk-width-1-1">
+    <button
+      ngClass="uk-button uk-button-default uk-width-1-1 uk-width-2-3@m uk-align-center"
+      (click)="clicked()">
+      Show more
+    </button>
+  </div>
 </div>
